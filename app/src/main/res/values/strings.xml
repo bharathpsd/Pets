@@ -81,4 +81,13 @@
     <string name="editor_update_pet_failed">Failed to update Pet</string>
 
     <string name="editor_update_pet_successful">Successfully Updated</string>
+
+    <!-- Title text for alert box -->
+    <string name="unsaved_changes_dialog_msg">You really want to discard changes you made ?</string>
+
+    <!-- Option 1 for alert box -->
+    <string name="discard">Discard</string>
+
+    <!-- Option 2 for alert box -->
+    <string name="keep_editing">Keep Editing</string>
 </resources>
